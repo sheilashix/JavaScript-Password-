@@ -12,3 +12,13 @@ function writePassword() {
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
+
+function generatePassword() {
+  return 8
+
+  generateBtn.addEventListener("click", writePassword);
+  function generatePassword() {
+    return 9
+  }
+
+}
